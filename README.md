@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
-<h3 align="center">passionate software developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🌱 I’m currently learning **Computer Systems, Computer Hardware, Game Development**
 
